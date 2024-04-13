@@ -22,7 +22,7 @@ The script will generate a table showing:
 
 Thread Count (T): The number of threads used for parallel execution.
 Average Execution Time (seconds): The average time it takes to multiply the matrices using the specified number of threads.
-Example Output:
+
 
 # Understanding the Results:
 
